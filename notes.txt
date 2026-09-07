@@ -1,0 +1,28 @@
+Git Practice Notes
+==================
+
+These notes help you remember basic Git commands.
+
+INITIALIZATION
+--------------
+git init              - Create new repository
+git clone <url>       - Copy existing repository
+
+BASIC WORKFLOW
+--------------
+git status           - Check current state
+git add <file>        - Stage a file
+git commit -m "msg"   - Save changes
+git push              - Upload to remote
+
+BRANCHES
+--------
+git branch            - List branches
+git checkout -b name - Create and switch
+git merge <branch>    - Merge into current
+
+HELPFUL TIPS
+-----------
+- Commit often with clear messages
+- Always pull before pushing
+- Use git status frequently

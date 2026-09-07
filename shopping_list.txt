@@ -1,0 +1,21 @@
+Shopping List
+=============
+
+Groceries:
+- Milk
+- Bread
+- Eggs
+- Cheese
+- Apples
+- Bananas
+
+Toiletries:
+- Toothpaste
+- Shampoo
+- Soap
+
+Things to do:
+[x] Create Git practice files
+[ ] Practice git commands
+[ ] Push to GitHub
+[ ] Share with friends
