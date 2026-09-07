@@ -27,3 +27,6 @@ HELPFUL TIPS
 - Always pull before pushing
 - Use git status frequently
 New line added
+hallo
+
+added this line from terminal
