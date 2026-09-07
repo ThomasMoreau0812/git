@@ -26,3 +26,4 @@ HELPFUL TIPS
 - Commit often with clear messages
 - Always pull before pushing
 - Use git status frequently
+New line added
