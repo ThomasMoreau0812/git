@@ -30,3 +30,4 @@ New line added
 hallo
 
 added this line from terminal
+hello
