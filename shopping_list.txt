@@ -19,3 +19,4 @@ Things to do:
 [ ] Practice git commands
 [ ] Push to GitHub
 [ ] Share with friends
+hello there 
